@@ -231,3 +231,6 @@ tr:hover {
     font-family: 'helveticaneue';
     font-size: 18px;
   }
+  .accent-green {
+    accent-color: #42ff00 ;
+}
